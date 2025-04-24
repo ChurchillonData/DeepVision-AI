@@ -102,12 +102,3 @@ Implement **Value Iteration** and **Q-Learning** to find optimal policies in a g
   - Integrate stochastic rewards or continuous actions
 
 ---
-
-## 📚 References
-
-- He et al., 2016. *Deep Residual Learning for Image Recognition*.
-- Shorten & Khoshgoftaar, 2019. *A survey on image data augmentation*.
-- Sutton & Barto, 2018. *Reinforcement Learning: An Introduction*.
-- Watkins & Dayan, 1992. *Q-learning*.
-
----
